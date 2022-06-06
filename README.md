@@ -49,7 +49,7 @@ This file contains the code for trainig the Bert model for sentiment analysis. T
 This file contains the code for flask backend application. Before running the backend all specified dependencies must be installed in the environment. The path in which the model is saved must be modified as per the requirement. To run the application go to the folder in which app.py is located from a command prompt and 
 type python app.py. This will start the backend at 127.0.0.1:5000. Sample api request and response is given in appendix. 
 
-## Sample API Request and response formats
+## Appendix(Sample API Request and response formats)
 
 The API is a POST API
 API: http://127.0.0.1:5000/predict   
